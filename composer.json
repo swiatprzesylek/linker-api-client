@@ -1,5 +1,5 @@
 {
-  "name": "linker/api-client",
+  "name": "swiatprzesylek/linker-api-client",
   "description": "Linker Cloud Fulfillment Platform API Client library",
   "type": "library",
   "keywords": [
@@ -11,7 +11,7 @@
   "license": "MIT",
   "require": {
     "php": ">=7.1.0",
-    "guzzlehttp/guzzle": "~6.0",
+    "guzzlehttp/guzzle": "^7",
     "myclabs/php-enum": "~1.2",
     "doctrine/common": "^2.5|^3.1",
     "jms/serializer": "*"
